@@ -1,6 +1,6 @@
 <h2>1.1) – Getting Started</h2>
-<p>Download and install all latest tools, required for developing Android apps such as Java Development Kit and 
-Android Studio as the Official Android IDE. For more updation, you can see and 
+<p>Download and install all the latest tools, required for developing Android apps such as Java Development Kit and 
+Android Studio as the official Android IDE. For more update, you can see and 
 Download this from Android Developer website.</p>
 <ul>
 <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Download JDK</a></br></li>
@@ -19,7 +19,7 @@ Download this from Android Developer website.</p>
 	<li>Android SDK, a selection of tools including the Android platform itself.</li>
 </ul>
 
-<p>Now let's start you can click on Android Studio to launch it. When it is open, you will be presented with a menu there
+<p>Now let's start you can click on Android Studio to launch it. When it is open, you will be presented with a menu where
 you will be able to start or configure other options. The great thing is that everything is handled 
 for you at this point, though you may want to familiarize yourself with the SDK Manager (Configure > SDK Manager) 
 which is where you’ll update your Android SDK to support newer versions, as well as download things like 
@@ -33,15 +33,15 @@ you’re missing something, this is where you’ll probably need to go to find i
 	<li>Once Android studio ready, click <b>open an existing android studio project</b>.</li>
 	<li>Browse to directory where you placed the android project and click <b>OK</b> after selecting the root directory of project.</li>
 	<li>While opening up the project you will get a popup of <b>Gradle Sync</b>. please click <b>OK</b> to building the project.</li>
-	<li>After this android studio will download some of the packages and execute some gradle plugins into your project.</li>
-  <p><b>*NOTE*:This may take some time to compile.</b></p>
+	<li>After this android studio will download some of the packages and execute some Gradle plugins into your project.</li>
+  <p><b>*NOTE*: This may take some time to compile.</b></p>
 	<li>While importing your android app you may get some dependencies errors. to resolve that you just need to update 
 versions of libraries or dependencies.</li>
 	<li>After every thing is done. your android studio project will look like this. you may ignore the plugin update 
 if it recommends that.</li>
-<p><b>*NOTE*:if you want to update your gradle plugin that may need to change some deep source code. 
-  It is better to user the same version of plugin.</b></p>
-	<li>Finally,Project directory structure view on screen. your all java source code is placed under the app package.</li>
+<p><b>*NOTE*: If you want to update your Gradle plugin that may need to change some deep source code. 
+  It is better to user the same version of the plugin.</b></p>
+	<li>Finally, Project directory structure view on the screen. your all java source code is placed under the app package.</li>
 </ul>
 
 
@@ -50,7 +50,7 @@ if it recommends that.</li>
 
 <ul>
 	<li>Connect the android device with your Pc or Laptop.</li>
-	<li>After that your device will show on android studio as delvik virtual machine.Then select it.</li>
+	<li>After that, your device will show on the android studio as Dalvik virtual machine. Then select it.</li>
 	<li>And Click on Run button or Press Shift+F10 key.</li>
   <p><b>*NOTE*:This may take some time for installation.</b></p>
 </ul>
