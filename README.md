@@ -1,6 +1,6 @@
 <h2>1.1) – Getting Started</h2>
 <p>Download and install all latest tools, required for developing Android apps such as Java Development Kit and 
-Android Studio as the Official Android IDE. For updated tutorial about how to install them, you can see and 
+Android Studio as the Official Android IDE. For more updation, you can see and 
 Download this from Android Developer website.</p>
 <ul>
 <li><a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Download JDK</a></br></li>
@@ -10,7 +10,7 @@ Download this from Android Developer website.</p>
 <h2>
 1.2) – Android Studio Setting
 </h2>
-<p>There are three main things interacting when you use Android Studio to create android applications.
+<p>There are three main features or things interacting when you use Android Studio to create android applications.
 </p>
 
 <ul>
@@ -19,8 +19,8 @@ Download this from Android Developer website.</p>
 	<li>Android SDK, a selection of tools including the Android platform itself.</li>
 </ul>
 
-<p>Now you can click on Android Studio to launch it. Once it opens up, you’ll be presented with a menu where 
-you’ll be able to get started or configure some options. The great thing is that everything is handled 
+<p>Now let's start you can click on Android Studio to launch it. When it is open, you will be presented with a menu there
+you will be able to start or configure other options. The great thing is that everything is handled 
 for you at this point, though you may want to familiarize yourself with the SDK Manager (Configure > SDK Manager) 
 which is where you’ll update your Android SDK to support newer versions, as well as download things like 
 code samples or support for Google Glass. But don’t worry about that now but if Android Studio says 
