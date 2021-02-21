@@ -14,24 +14,23 @@ download this from Android Developer website.</p>
 </p>
 
 <ul>
-	<li>The code you write in Java or Kotlin to create interactive android apps.</li>
-	<li>Android Studio itself, an IDE that provides you with a nice interface for coding.</li>
-	<li>Android SDK, a selection of tools including the Android platform itself.</li>
+	<li>The code you type in Java or Kotlin to create interactive Android apps.</li>
+	<li>Android Studio itself, an IDE that provides you with a good interface for coding.</li>
+	<li>Android SDK, selected tools including the Android platform itself.</li>
 </ul>
 
 <p>Now let's start you can click on Android Studio to launch it. When it is open, you will be presented with a menu where
 you will be able to start or configure other options. The great thing is that everything is handled 
-for you at this point, though you may want to familiarize yourself with the SDK Manager (Configure > SDK Manager) 
+for you at this main point, though you may want to familiarize yourself with the SDK Manager (Configure > SDK Manager) 
 which is where you’ll update your Android SDK to support newer versions, as well as download things like 
-code samples or support for Google Glass. But don’t worry about that now but if Android Studio says 
-you’re missing something, this is where you’ll probably need to go to find it.</p>
+code samples or support for Google Glass. But don't worry about that now but if Android Studio says you lost something, that's when you'll need to find it.</p>
 
 <h2>1.3) – Open up Project in Android Studio</h2>
 
 <ul>
 	<li>Locate your Android app in the given project <b>.zip</b> folder and extract it somewhere on your computer.</li>
-	<li>Once Android studio ready, click <b>open an existing android studio project</b>.</li>
-	<li>Browse to the directory where you placed the android project and click <b>OK</b> after selecting the root directory of project.</li>
+	<li>Once Android studio is fully ready, click <b>open an existing android studio project</b>.</li>
+	<li>Browse to the directory or location where you placed the android project and click <b>OK</b> after selecting the root directory of project.</li>
 	<li>While opening up the project you will get a popup of <b>Gradle Sync</b>. please click <b>OK</b> to building the project.</li>
 	<li>After this android studio will download some of the packages and execute some Gradle plugins into your project.</li>
   <p><b>*NOTE*: This may take some time to compile.</b></p>
